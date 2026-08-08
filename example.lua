@@ -1,3 +1,5 @@
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Altis-DEV/DummyUiLibrary/refs/heads/main/dummyuimodded.lua"))()
+
 local Window = Library:Window({
     Title = "Dummy UI v2 Demo",
     Desc = "Full element showcase",
